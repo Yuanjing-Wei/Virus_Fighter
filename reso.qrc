@@ -1,0 +1,94 @@
+<RCC>
+    <qresource prefix="/background">
+        <file>game_resource/background/background.jpg</file>
+        <file>game_resource/background/background1.jpg</file>
+        <file>game_resource/background/background2.jpg</file>
+        <file>game_resource/background/chemo background1.jpg</file>
+        <file>game_resource/background/game_background.jpg</file>
+    </qresource>
+    <qresource prefix="/player">
+        <file>game_resource/player/p1.png</file>
+        <file>game_resource/player/p2.png</file>
+        <file>game_resource/player/p3.png</file>
+        <file>game_resource/player/p4.png</file>
+        <file>game_resource/player/p5.png</file>
+        <file>game_resource/player/p6.png</file>
+        <file>game_resource/player/p7.png</file>
+        <file>game_resource/player/p8.png</file>
+        <file>game_resource/player/p9.png</file>
+        <file>game_resource/player/p10.png</file>
+        <file>game_resource/player/p11.png</file>
+        <file>game_resource/player/p12.png</file>
+    </qresource>
+    <qresource prefix="/enemy">
+        <file>game_resource/enemy/a1.png</file>
+        <file>game_resource/enemy/a2.png</file>
+        <file>game_resource/enemy/a3.png</file>
+        <file>game_resource/enemy/a4.png</file>
+        <file>game_resource/enemy/a5.png</file>
+        <file>game_resource/enemy/a6.png</file>
+        <file>game_resource/enemy/a7.png</file>
+        <file>game_resource/enemy/a8.png</file>
+        <file>game_resource/enemy/a9.png</file>
+        <file>game_resource/enemy/a10.png</file>
+        <file>game_resource/enemy/a11.png</file>
+        <file>game_resource/enemy/a12.png</file>
+        <file>game_resource/enemy/boss.jpg</file>
+        <file>game_resource/enemy/boss.png</file>
+        <file>game_resource/enemy/boss1.1.png</file>
+        <file>game_resource/enemy/boss1.png</file>
+        <file>game_resource/enemy/d1.png</file>
+        <file>game_resource/enemy/d2.png</file>
+        <file>game_resource/enemy/d3.png</file>
+        <file>game_resource/enemy/d4.png</file>
+        <file>game_resource/enemy/d5.png</file>
+        <file>game_resource/enemy/d6.png</file>
+        <file>game_resource/enemy/d7.png</file>
+        <file>game_resource/enemy/d8.png</file>
+        <file>game_resource/enemy/d9.png</file>
+        <file>game_resource/enemy/d10.png</file>
+        <file>game_resource/enemy/d11.png</file>
+        <file>game_resource/enemy/d12.png</file>
+        <file>game_resource/enemy/gameboss.png</file>
+        <file>game_resource/enemy/w1.png</file>
+        <file>game_resource/enemy/w2.png</file>
+        <file>game_resource/enemy/w3.png</file>
+        <file>game_resource/enemy/w4.png</file>
+        <file>game_resource/enemy/w5.png</file>
+        <file>game_resource/enemy/w6.png</file>
+        <file>game_resource/enemy/w7.png</file>
+        <file>game_resource/enemy/w8.png</file>
+        <file>game_resource/enemy/w9.png</file>
+        <file>game_resource/enemy/w10.png</file>
+        <file>game_resource/enemy/w11.png</file>
+        <file>game_resource/enemy/w12.png</file>
+    </qresource>
+    <qresource prefix="/music">
+        <file>game_resource/music/infinite.mp3</file>
+        <file>game_resource/music/legends never die.mp3</file>
+        <file>game_resource/music/sprint.mp3</file>
+    </qresource>
+    <qresource prefix="/images">
+        <file>game_resource/images/disinfector.png</file>
+        <file>game_resource/images/freezer.png</file>
+        <file>game_resource/images/lose.jpg</file>
+        <file>game_resource/images/mask.png</file>
+        <file>game_resource/images/medal.png</file>
+        <file>game_resource/images/pb0.png</file>
+        <file>game_resource/images/pb1.png</file>
+        <file>game_resource/images/pb2.png</file>
+        <file>game_resource/images/pill.png</file>
+        <file>game_resource/images/virus1.png</file>
+        <file>game_resource/images/virus2.png</file>
+        <file>game_resource/images/virus3.png</file>
+        <file>game_resource/images/virusB.png</file>
+        <file>game_resource/images/virusC.png</file>
+        <file>game_resource/images/virusgreen.png</file>
+        <file>game_resource/images/virusorange.png</file>
+        <file>game_resource/images/win.jpg</file>
+        <file>game_resource/images/bossvirus.png</file>
+    </qresource>
+    <qresource prefix="/ranking">
+        <file>game_resource/images/ranking.jpg</file>
+    </qresource>
+</RCC>
