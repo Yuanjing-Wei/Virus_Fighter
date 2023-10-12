@@ -3,11 +3,13 @@ Virus Fighter is a Bullet Hell game under the game genre Shoot’em up(aka STG).
 game, the player has to combat large amounts of enemies by shooting at them while dodging their
 fire. We chose to implement this kind of game because it is fun and easy to play. Besides, we
 believe that it would be an excellent opportunity for us to make fair use of OOP since there are at
-least four different types of objects (i. e., player, enemy, bullet, boss) in the game.<br />
+least four different types of objects (i. e., player, enemy, bullet, boss) in the game.<br/><br/>
+
 The idea of our game mainly comes from the unusual and challenging year. We name our game
 Virus Fighter to memorize the tough but admirable and memorable process of people from different
 nations and backgrounds working together to fight against covid-19. Besides, we thought the virus
-element might add to the uniqueness of the game.<br />
+element might add to the uniqueness of the game.<br/><br/>
+
 Virus Fighter is equipped with essential features of the Bullet Hell game. The player could move
 up/down/left/right by pressing ”WSAD” and shot by pressing space. There are seven types of
 objects: player, enemy, boss, weapon, virus, boss virus, and props. To win the game, the player
