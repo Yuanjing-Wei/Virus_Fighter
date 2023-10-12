@@ -1,4 +1,5 @@
 # Virus_Fighter
+## By Yuchen Lin, Yuanjing Wei, Lin Yang
 Virus Fighter is a Bullet Hell game under the game genre Shoot’em up(aka STG). In this type of
 game, the player has to combat large amounts of enemies by shooting at them while dodging their
 fire. We chose to implement this kind of game because it is fun and easy to play. Besides, we
